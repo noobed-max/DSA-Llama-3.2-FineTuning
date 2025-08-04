@@ -15,10 +15,10 @@ load_dotenv()
 
 # List of API keys to rotate through when quota is exceeded
 API_KEYS = [
-    "AIzaSyDr6dD9FoMNP3QUKZNseoe6JSZvlFseqec",
-    "AIzaSyDTuB0KuyIb7ztbwv5YTuXMBBYAL2MTZkA",
-    "AIzaSyDlhB6uvRmFNEOY-TDaQSGidGJUz7yTcQk",
-    "AIzaSyCoezRoDtwr-3zB0e6A1uPmIvqkHgRnJ4I",
+    "xxx",
+    "xx",
+    "x-x",
+    "x-x",
 ]
 
 # Track current API key index
